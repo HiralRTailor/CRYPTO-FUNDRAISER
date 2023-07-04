@@ -1,5 +1,6 @@
 # CRYPTO-FUNDRAISER
 **About Project**
+
 Crypto Fundraiser is a decentralized Blockchain technology based crowdfunding platform built on Sepolia Test network with ThirdWeb, React, Metamask wallet, and Solidity programming, designed to address the challenges faced by entrepreneurs in accessing funds for their ideas.
 
 **Techs Used in this Project**
@@ -22,6 +23,7 @@ Crypto Fundraiser is a decentralized Blockchain technology based crowdfunding pl
 - Sepolia Test Network
 
 **Repository**
+
 This Repository consists two Main Folders :
 
 1. client : Frontend Folder

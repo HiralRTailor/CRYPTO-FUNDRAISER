@@ -7,16 +7,23 @@ Crypto Fundraiser is a decentralized Blockchain technology based crowdfunding pl
 **1. Frontend Technology Framework**
 - React
 - Tailwindcss
-- 
+  
 **2. Backend Technologies:**
 - Solidity v0.8.9
 - Node.js v18.16.0
 - Node Package Manager
-- 
+  
 **3. IDE : Visual Studio Code**
 - Blockchain Wallet: Metamask chrome extension
 - Smart Contract Deployment Platform: Thirdweb
 - Compiler: hardhat
-- 
+ 
 **4. Blockchain Test Network:**
 - Sepolia Test Network
+
+**Repository **
+This Repository consists 2 Main Folders -
+
+client : Frontend Folder
+hrt_web3 : Smart Contract and Web3 Stuff
+

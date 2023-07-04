@@ -21,9 +21,9 @@ Crypto Fundraiser is a decentralized Blockchain technology based crowdfunding pl
 **4. Blockchain Test Network:**
 - Sepolia Test Network
 
-**Repository **
-This Repository consists 2 Main Folders -
+**Repository**
+This Repository consists two Main Folders :
 
-client : Frontend Folder
-hrt_web3 : Smart Contract and Web3 Stuff
+1. client : Frontend Folder
+2. hrt_web3 : Smart Contract and Web3 Stuff
 

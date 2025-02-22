@@ -35,3 +35,14 @@ You can check out [the thirdweb GitHub organization](https://github.com/thirdweb
 ## Join our Discord!
 
 For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+
+Steps to run
+
+cd hrt_web3
+npx thirdweb@latest deploy -k <thidweb secret key>
+or
+npm thirdweb deploy
+
+cd client
+npm run dev
+

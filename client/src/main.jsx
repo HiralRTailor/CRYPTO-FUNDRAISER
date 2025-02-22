@@ -26,7 +26,10 @@ root.render(
 */
 
 root.render(
-  <ThirdwebProvider activeChain={Sepolia}>
+  <ThirdwebProvider activeChain={Sepolia}   sdkOptions={{
+    gatewayUrls: ["https://ipfs.io/ipfs/"], // Override default gateway
+  }}
+>
     <Router>
     <StateContextProvider>
       {/*added by Hiral*/}

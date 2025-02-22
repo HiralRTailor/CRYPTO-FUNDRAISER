@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 //6 
-contract HRTCrowdFunding7 {
+contract HRTCrowdFunding_updated {
     struct Campaign {
         address owner;//Hiral
         string title;
